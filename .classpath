@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/alim.khowaja/New folder/Desktop/xml/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alim.khowaja/New folder/Desktop/xml/xmlpull-1.1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alim.khowaja/New folder/Desktop/xml/xpp3_min-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alim.khowaja/New folder/Desktop/xml/xstream-1.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alim.khowaja/New folder/Desktop/xml/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alim.khowaja/New folder/Desktop/xml/jaxb-core-2.2.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alim.khowaja/New folder/Desktop/xml/jaxb-impl-2.2.11.jar" sourcepath="C:/Users/ALIM~1.KHO/AppData/Local/Temp/.org.sf.feeling.decompiler1609399834775/source/jaxb-impl-2.2.11-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alim.khowaja/New folder/Desktop/xml/javassist-3.26.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alim.khowaja/New folder/Desktop/xml/reflections-0.9.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alim.khowaja/New folder/Desktop/xml/activation-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
